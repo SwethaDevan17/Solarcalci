@@ -1,0 +1,2 @@
+# Solarcalci
+Solar energy calculator
